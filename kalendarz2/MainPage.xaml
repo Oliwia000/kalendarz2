@@ -171,6 +171,20 @@ StrokeThickness="1">
                 </Border>
             </VerticalStackLayout>
         </Border>
+        <Border
+Grid.Row="4"
+Grid.Column="5"
+Stroke="Gray"
+StrokeThickness="1">
+            <Label Text="20"  HorizontalOptions="End" VerticalOptions="Start"  Padding="8"/>
+        </Border>
+        <Border
+Grid.Row="4"
+Grid.Column="6"
+Stroke="Gray"
+StrokeThickness="1">
+            <Label Text="21"  HorizontalOptions="End" TextColor="Red" VerticalOptions="Start"  Padding="8"/>
+        </Border>
 
     </Grid>
 
