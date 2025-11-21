@@ -161,14 +161,15 @@ Grid.Row="4"
 Grid.Column="4"
 Stroke="Gray"
 StrokeThickness="1">
-            <VerticalStackLayout Padding="2"  >
+            <VerticalStackLayout Padding="8"  >
                 <Label Text="20"  TextColor="Blue" HorizontalOptions="End"  />
-                <Border StrokeThickness="4"  BackgroundColor="Purple">
-                    <Label Text="wigilia klasowa" TextColor="Black"  HorizontalOptions="End" />
-                </Border>
                 <Border StrokeThickness="4"  BackgroundColor="Blue">
                     <Label Text="termin wystawiania proponowanych ocen" TextColor="Black"  HorizontalOptions="End" />
                 </Border>
+                <Border StrokeThickness="4"  BackgroundColor="Purple">
+                    <Label Text="wigilia klasowa" TextColor="Black"  HorizontalOptions="End" />
+                </Border>
+               
             </VerticalStackLayout>
         </Border>
         <Border
@@ -176,15 +177,99 @@ Grid.Row="4"
 Grid.Column="5"
 Stroke="Gray"
 StrokeThickness="1">
-            <Label Text="20"  HorizontalOptions="End" VerticalOptions="Start"  Padding="8"/>
+            <Label Text="21"  HorizontalOptions="End" VerticalOptions="Start"  Padding="8"/>
         </Border>
         <Border
 Grid.Row="4"
 Grid.Column="6"
 Stroke="Gray"
 StrokeThickness="1">
-            <Label Text="21"  HorizontalOptions="End" TextColor="Red" VerticalOptions="Start"  Padding="8"/>
+            <Label Text="22"  HorizontalOptions="End" TextColor="Red" VerticalOptions="Start"  Padding="8"/>
         </Border>
+        <Border
+Grid.Row="5"
+Grid.Column="0"
+Stroke="Gray"
+StrokeThickness="1">
+            <Label Text="23"  HorizontalOptions="End" VerticalOptions="Start"  Padding="8"/>
+        </Border>
+        <Border
+Grid.Row="5"
+Grid.Column="1"
+Stroke="Gray"
+StrokeThickness="1">
+            <VerticalStackLayout Padding="8"  >
+                <Label Text="24"  TextColor="yellow" HorizontalOptions="End"  />
+                <Border StrokeThickness="4"  BackgroundColor="Yellow">
+                    <Label Text="Wigilia Bożego Narodzenia" TextColor="Black"  HorizontalOptions="End" />
+                </Border>
+            </VerticalStackLayout>
+        </Border>
+        <Border
+Grid.Row="5"
+Grid.Column="2"
+Stroke="Gray"
+StrokeThickness="1">
+            <VerticalStackLayout Padding="2"  >
+                <Label Text="25"  TextColor="yellow" HorizontalOptions="End"  />
+                <Border StrokeThickness="4"  BackgroundColor="Yellow">
+                    <Label Text="Boże Narodzenie" TextColor="Black"  HorizontalOptions="End" />
+                </Border>
+            </VerticalStackLayout>
+        </Border>
+        <Border
+Grid.Row="5"
+Grid.Column="3"
+Stroke="Gray"
+StrokeThickness="1">
+            <VerticalStackLayout Padding="8"  >
+                <Label Text="26"  TextColor="yellow" HorizontalOptions="End"  />
+                <Border StrokeThickness="4"  BackgroundColor="Yellow">
+                    <Label Text="Drugi dzień Bożego Narodzenia" TextColor="Black"  HorizontalOptions="End" />
+                </Border>
+            </VerticalStackLayout>
+        </Border>
+        <Border
+Grid.Row="5"
+Grid.Column="4"
+Stroke="Gray"
+StrokeThickness="1">
+            <Label Text="27"  HorizontalOptions="End" VerticalOptions="Start"  Padding="8"/>
+        </Border>
+        <Border
+Grid.Row="5"
+Grid.Column="5"
+Stroke="Gray"
+StrokeThickness="1">
+            <Label Text="28"  HorizontalOptions="End" VerticalOptions="Start"  Padding="8"/>
+        </Border>
+        <Border
+Grid.Row="5"
+Grid.Column="6"
+Stroke="Gray"
+StrokeThickness="1">
+            <Label Text="29"  HorizontalOptions="End" VerticalOptions="Start" TextColor="Red" Padding="8"/>
+        </Border>
+        <Border
+Grid.Row="6"
+Grid.Column="0"
+Stroke="Gray"
+StrokeThickness="1">
+            <Label Text="30"  HorizontalOptions="End" VerticalOptions="Start"  Padding="8"/>
+        </Border>
+        <Border
+Grid.Row="6"
+Grid.Column="1"
+Stroke="Gray"
+StrokeThickness="1">
+            <VerticalStackLayout Padding="8"  >
+                <Label Text="31"  TextColor="yellow" HorizontalOptions="End"  />
+                <Border StrokeThickness="4"  BackgroundColor="Yellow">
+                    <Label Text="Sylwester" TextColor="Black"  HorizontalOptions="End" />
+                </Border>
+            </VerticalStackLayout>
+        </Border>
+
 
     </Grid>
 
